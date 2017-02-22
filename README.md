@@ -1,7 +1,7 @@
 <DOCTYPE>
 <html>
 	<head>
-		<title>Dr. Mary McKinnon</title>
+		<title> Dr. Mary McKinnon</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
