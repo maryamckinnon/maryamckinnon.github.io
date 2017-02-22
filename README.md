@@ -24,5 +24,4 @@
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
-    		<ul>
      
