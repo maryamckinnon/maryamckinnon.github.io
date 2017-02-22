@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	<body style="background-color:powderblue; style=font-family:verdana">
-
+		<ul style="list-style-type:square">
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
