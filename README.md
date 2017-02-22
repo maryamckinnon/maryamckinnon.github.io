@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Dr. Mary McKinnon</title>
@@ -14,7 +13,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Mary McKinnon.!</h1>
+        		<h1>Hi there, I'm Mary McKinnon!</h1>
 				<p>I'm a physical therapist interested in sharing research and knowledge from the world of physical therapy. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
