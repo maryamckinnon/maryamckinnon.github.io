@@ -8,9 +8,8 @@
 	</head>
 	<body>
 	<body style="background-color:powderblue; style=font-family:verdana">
-		<ul style="list-style-type:square">
 		<nav>
-    		<ul>
+    		<ul style="list-style-type:square">
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
