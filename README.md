@@ -6,7 +6,8 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-	<body style="background-color:powderblue;">
+	<body style="background-color:powderblue; style=font-family:verdana">
+
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
