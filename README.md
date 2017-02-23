@@ -12,8 +12,8 @@
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/About">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+        		<li><a href="/Resume">Resume</a></li>
+        		<li><a href="/Blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
