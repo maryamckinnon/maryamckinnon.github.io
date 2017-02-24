@@ -4,7 +4,7 @@
 	<head style="font-family:courier">
 		<title> Dr. Mary McKinnon</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/alternate.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
