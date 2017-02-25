@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #0F008A;
+    background-color: oldlace;
 }
 
 nav ul, footer ul {
@@ -43,13 +43,13 @@ h1 {
     position: relative;
     text-align: center;
     top: 20%;
-    color: #94FBB6;
+    color: #8C008A;
 }
 
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: floralwhite;
+    color: ;
     font-family: 'Raleway', sans-serif;
     font-weight: 100;
 }
