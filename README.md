@@ -6,9 +6,10 @@
 		<link rel="stylesheet" type="text/css" href="/css/alternate.css">
 	</head>
 	<body>
-	<div class="header">
-  	<img src="geometric-woman-runner.jpg" alt="a woman running"/>
-	</div>
+		<h1>
+		<img src="geometric-woman-runner.jpg" alt="a woman running"/>
+		</h1>
+		
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -19,7 +20,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Mary!</h1>
+        		<h2>Hi there, I'm Mary!</h2>
 				<p>I'm a physical therapist interested in sharing research and knowledge from the world of physical therapy. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
