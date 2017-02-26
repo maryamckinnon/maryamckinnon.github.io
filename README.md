@@ -3,12 +3,11 @@
 	<head>
 		<title> Dr. Mary McKinnon</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/alternate.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-		<h1>
-		<img src="geometric-woman-runner.jpg" alt="a woman running"/>
-		</h1>
+	  <div class="image">
+		</div>
 		
 		<nav>
     		<ul>
@@ -20,7 +19,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h2>Hi there, I'm Mary!</h2>
+        		<h1>Hi there, I'm Mary!</h1>
 				<p>I'm a physical therapist interested in sharing research and knowledge from the world of physical therapy. <a href="/about">Read more about my life...</a></p>
 
     		</div><!-- /.blurb -->
