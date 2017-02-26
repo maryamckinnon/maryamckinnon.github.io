@@ -6,7 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="/css/alternate.css">
 	</head>
 	<body>
-	<img src="geometric-woman-runner.jpg" class="runner-img">
+	 <a><img src="geometric-woman-runner.jpg" alt="a woman running"/></a>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
