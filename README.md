@@ -7,6 +7,7 @@
 	</head>
 	<body>
 	  <div class="image">
+	  <img src="geometric-woman-runner.jpg" alt="a woman running"/>
 		</div>
 		
 		<nav>
