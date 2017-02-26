@@ -1,7 +1,4 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-    background-color: oldlace;
     background-image: url("img/geometric-woman-runner.jpg") no repeat;
     background-position: center;
     height: 300px;
@@ -80,7 +77,7 @@ h1 {
   font-weight: 500;
   text-align: left;
   text-transform: uppercase;
-  background-color: #AA8EB5
+  background-color: oldlace
 }
 
 li {
