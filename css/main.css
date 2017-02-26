@@ -12,6 +12,12 @@ body {
   width: 100%;
 }
 
+.main {
+  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
+  margin: 0;
+  padding: 40px;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
