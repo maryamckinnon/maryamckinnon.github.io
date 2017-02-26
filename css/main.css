@@ -4,6 +4,13 @@ body {
     background-color: oldlace;
 }
 
+.image {
+  background-image: url("geometric-woman-runner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
