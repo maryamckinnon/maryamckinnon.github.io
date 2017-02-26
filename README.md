@@ -3,10 +3,11 @@
 	<head>
 		<title> Dr. Mary McKinnon</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/alternate.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<h1>
+		<link href="geometric-woman-runner.jpg" type="text/css" rel="stylesheet" >
 		<img src="geometric-woman-runner.jpg" alt="a woman running"/>
 		</h1>
 		
