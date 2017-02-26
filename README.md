@@ -18,7 +18,6 @@
         		<li><a href="/Blog">Blog</a></li>
     		</ul>
 		</nav>
-		</body>
 		<div class="container">
     		<div class="blurb">
         		<h2>Hi there, I'm Mary!</h2>
@@ -26,4 +25,6 @@
 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
+		</body>
+		</html>
 		<footer>
