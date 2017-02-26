@@ -18,10 +18,12 @@
         		<li><a href="/Blog">Blog</a></li>
     		</ul>
 		</nav>
+		</body>
 		<div class="container">
     		<div class="blurb">
         		<h2>Hi there, I'm Mary!</h2>
 				<p>I'm a physical therapist interested in sharing research and knowledge from the world of physical therapy. <a href="/about">Read more about my life...</a></p>
+
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
