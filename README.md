@@ -6,10 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-	  <div class="image">
-	  <img src="geometric-woman-runner.jpg" alt="a woman running"/>
-		</div>
-		
+	<link href="https://fonts.googleapis.com/css?family=Lobster" type="text/css" rel="stylesheet">
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
