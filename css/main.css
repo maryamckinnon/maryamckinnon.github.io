@@ -2,6 +2,7 @@ body {
     background-image: url("img/geometric-woman-runner.jpg") no repeat;
     background-position: center;
     height: 300px;
+    background-color: oldlace
 }
 
 nav ul, footer ul {
@@ -73,11 +74,13 @@ ul.posts li {
 h1 {
   color: indigo;
   font-family: 'Raleway', sans-serif;
-  font-size: 28px;
+  font-size: 30px;
+  padding-top: 100px
   font-weight: 500;
   text-align: left;
   text-transform: uppercase;
   background-color: oldlace
+  width: 60%;
 }
 
 li {
