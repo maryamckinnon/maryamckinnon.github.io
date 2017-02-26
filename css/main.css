@@ -25,6 +25,9 @@ nav ul li, footer ul li {
   padding-left: 10px;
   text-transform: uppercase;
 }
+runnerimage {
+    padding: 0px
+}    
 
 a {
     text-decoration: none;
