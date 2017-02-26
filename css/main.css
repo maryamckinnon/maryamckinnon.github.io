@@ -73,8 +73,8 @@ ul.posts li {
 
 /** List style **/
 
-h2 {
-  color: #E4BB97;
+h1 {
+  color: indigo;
   font-family: 'Raleway', sans-serif;
   font-size: 28px;
   font-weight: 500;
