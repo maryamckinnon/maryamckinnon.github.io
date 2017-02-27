@@ -47,23 +47,24 @@ a:hover {
 h1 {
   color: indigo;
   font-family: 'Lobster', sans-serif;
-  font-size: 30px;
+  font-size: 80px;
   padding-top: 100px;
+  padding-right: 100px;
   font-weight: bold;
-  text-align: center;
+  text-align: right;
   background-color: oldlace;
   width: 60%;
 }
 
 h2 {
-    font-size: 22px;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 40px;
+    font-family:'Lobster', 'Sans-Serif';
     line-height: 76px;
-    text-align: center;
+    text-align: right;
     top: 20%;
     color: #8C008A;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     font-weight: normal;
+    padding-right: 80px
     padding-bottom: 30px;
     width: 70%;
 }
@@ -71,7 +72,8 @@ h2 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    text-align: center;
+    text-align: right;
+    padding-right: 80px;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
 }
