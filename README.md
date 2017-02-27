@@ -6,9 +6,10 @@
 		<link href="https://fonts.googleapis.com/css?family=Lobster" type="text/css" rel="stylesheet">
 	</head>
 	<body>
-	<div class="header">
-	<h1> Welcome! </h1>
-	</div>
+	
+		<div class="header">
+		<h1> Welcome! </h1>
+		</div>
 	
 		<div>
 		<nav>
@@ -28,7 +29,5 @@
 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
-		
 		</body>
 		</html>
-		<footer>
