@@ -4,8 +4,8 @@ body {
     background-color: oldlace
 }
 
-header {
-  background-image: url("maryamckinnon.github.io/geometric-woman-runner.jpg");
+.header {
+  background-image: "geometric-woman-runner.jpg");
   background-position: center center;
   background-size: cover;
   width: 100%;
