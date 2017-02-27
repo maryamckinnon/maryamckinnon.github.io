@@ -12,24 +12,18 @@ body {
   width: 100%;
 }
 
-.main {
-  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
-  margin: 0;
-  padding: 40px;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
     list-style: none;
     font-weight: bold;
-
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    
 }
+
 .byline {
   color: rgba(255, 255, 255, 0.5);
   float: left;
@@ -56,7 +50,7 @@ h1 {
   font-size: 30px;
   padding-top: 100px
   font-weight: bold;
-  text-align: right;
+  text-align: center;
   background-color: oldlace
   width: 60%;
 }
@@ -65,9 +59,7 @@ h2 {
     font-size: 22px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 76px;
-    margin: 0;
-    position: relative;
-    text-align: right;
+    text-align: center;
     top: 20%;
     color: #8C008A;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
@@ -79,7 +71,7 @@ h2 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    text-align: right;
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
 }
