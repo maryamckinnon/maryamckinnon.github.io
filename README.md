@@ -8,6 +8,7 @@
 	<body>
 	<div class="header"> </div>
 	<link href="https://fonts.googleapis.com/css?family=Lobster" type="text/css" rel="stylesheet">
+		<div>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -16,6 +17,7 @@
         		<li><a href="/Blog">Blog</a></li>
     		</ul>
 		</nav>
+		</div>
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Mary!</h1>
