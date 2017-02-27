@@ -2,12 +2,14 @@
 <html>
 	<head>
 		<title> Dr. Mary McKinnon</title>
-		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link href="https://fonts.googleapis.com/css?family=Lobster" type="text/css" rel="stylesheet">
 	</head>
 	<body>
-	<div class="header"> </div>
-	<link href="https://fonts.googleapis.com/css?family=Lobster" type="text/css" rel="stylesheet">
+	<div class="header">
+	<h1> Welcome! </h1>
+	</div>
+	
 		<div>
 		<nav>
     		<ul>
@@ -18,13 +20,15 @@
     		</ul>
 		</nav>
 		</div>
+		
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Mary!</h1>
+        		<h2>Hi there, I'm Mary!</h2>
 				<p>I'm a physical therapist interested in sharing research and knowledge from the world of physical therapy. <a href="/about">Read more about my life...</a></p>
 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
+		
 		</body>
 		</html>
 		<footer>
