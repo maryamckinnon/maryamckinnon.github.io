@@ -5,7 +5,8 @@ body {
 }
 
 .header {
-  background-image: "geometric-woman-runner.jpg");
+  background-image: url("https://maryamckinnon.github.io/geometric-woman-runner.jpg");
+  height: 400px;
   background-position: center center;
   background-size: cover;
   width: 100%;
