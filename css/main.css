@@ -43,9 +43,7 @@ a {
 */
 a:hover {
     text-decoration: underline;
-    word-spacing: 50px;
-    border:1px solid red;  
-}
+    word-spacing: 50px;  
 }
 
 h1 {
