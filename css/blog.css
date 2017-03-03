@@ -48,10 +48,9 @@ h1 {
   color: indigo;
   font-family: 'Lobster', sans-serif;
   font-size: 70px;
-  padding-top: 80px;
-  padding-right: 50px;
+  padding-top: 50px;
   font-weight: bold;
-  text-align: right;
+  text-align: center;
   width: 60%;
 }
 
