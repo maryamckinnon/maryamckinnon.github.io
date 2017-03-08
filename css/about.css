@@ -40,11 +40,11 @@ h1 {
   color: indigo;
   font-family: 'Lobster', sans-serif;
   font-size: 50px;
-  padding-top: 100px;
+  padding-top: 75px;
   font-weight: bold;
   text-align: center;
   background-color: oldlace;
-  width: 60%;
+  margin: auto;
 }
 
 h2 {
