@@ -62,11 +62,12 @@ h2 {
 p {
     font-size: 25px;
     line-height: 1.4em;
-    text-align: left;
-    padding-right: 50px;
+    text-align: center;
+    padding: 200px;
     font-family: 'Raleway', Open Sans;
     font-weight: normal;
     border: 2px solid black
+    
 }
 
 footer {
