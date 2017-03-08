@@ -21,8 +21,8 @@ nav ul, footer ul {
 }
 
 nav ul li, footer ul li {
-    background: #D7263D;
-    border: 1px solid #D7263D;
+    background: indigo;
+    border: 1px solid indigo;
     border-radius: 3px;
     color: #FFF;
     display: inline-block;
@@ -39,13 +39,13 @@ a {
 
 a:hover {
     background: #FFF;
-    border: 1px solid #D7263D;
-    color: #D7263D;
+    border: 1px solid indigo;
+    color: indigo;
     animation: ease;
 }
 
 .byline {
-    color: rgba(255, 255, 255, 0.5);
+    color: oldlace;
     float: center;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
