@@ -12,7 +12,7 @@ I am a physical therapist turned software engineer and recent graduate of Hack R
 - Puzzles of any kind
 - Cycling
 - Being near any large body of water
-- Podcasts ([Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [We Can Do Hard Things](http://wecandohardthingspodcast.com/), [The Heal Podcast](https://podcasts.apple.com/us/podcast/the-heal-podcast/id1562929417), [Radiolab](https://www.wnycstudios.org/shows/radiolab)
+- Podcasts ([Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [We Can Do Hard Things](http://wecandohardthingspodcast.com/), [The Heal Podcast](https://podcasts.apple.com/us/podcast/the-heal-podcast/id1562929417), [Radiolab](https://www.wnycstudios.org/shows/radiolab))
 
 
 # I dream of

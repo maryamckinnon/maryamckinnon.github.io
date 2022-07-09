@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Nomad-Nerd',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
@@ -12,32 +12,43 @@ const data = [
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
+    title: 'CarCar',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    link: 'https://github.com/maryamckinnon/carcar',
+    image: '/images/projects/carcar.png',
+    date: 'July, 2022',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A web application designed to help manage the inventory, sales, and servicing '
+      + 'for an automobile dealership. ',
   },
   {
-    title: 'Space Potato',
+    title: 'ConferenceGO',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    link: 'https://github.com/maryamckinnon/conference-go',
     image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    date: 'July, 2022',
     desc:
       'Launched a potato battery powered weather balloon with two cameras '
       + 'and gps transponder. Resulting photos were published in a coffee table book. '
       + 'You can email me for a copy.',
   },
   {
-    title: 'Cat Detector',
+    title: 'Wardrobify',
+    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    link: 'https://github.com/maryamckinnon/conference-go',
+    image: '/images/projects/spacepotato.jpg',
+    date: 'June, 2022',
+    desc:
+      'Launched a potato battery powered weather balloon with two cameras '
+      + 'and gps transponder. Resulting photos were published in a coffee table book. '
+      + 'You can email me for a copy.',
+  },
+  {
+    title: 'Task Manager',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    link: 'https://github.com/maryamckinnon/task-manager',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: 'May 2022',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '

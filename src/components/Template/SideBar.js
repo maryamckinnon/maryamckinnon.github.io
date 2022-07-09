@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me2.jpeg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
       </Link>
       <header>
         <h2>Mary McKinnon</h2>
@@ -19,14 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Mary. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Mary. I like learning and understanding how things work.
+        I am a recent Hack Reactor bootcamp grad as well as a Penn State and Arcadia alumni.
+        I hold a doctorate degree in physical therapy and worked as a physical therapist
+        for 7+ years prior to making the switch to software engineering. What excites me most
+        about software engineering is the possibility of having a large positive impact on society.
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +31,6 @@ const SideBar = () => (
         </li>
       </ul>
     </section>
-
     <section id="footer">
       <ContactIcons />
       <p className="copyright">&copy; Mary McKinnon - 2022</p>
