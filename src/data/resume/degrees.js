@@ -1,15 +1,18 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Hack Reactor',
+    degree: 'Full-Stack Software Engineering Immersive Certificate',
+    year: 2022,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Arcadia University',
+    degree: 'Doctorate of Physical Therapy, with distinction',
+    year: 2015,
+  },
+  {
+    school: 'The Pennsylvania State University',
+    degree: 'B.S. in Kinesiology, Magna cum laude',
+    year: 2015,
   },
 ];
 
