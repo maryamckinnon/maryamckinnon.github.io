@@ -6,7 +6,7 @@ const References = () => (
     <div className="link-to" id="references" />
     <div className="title">
       <Link to="/contact">
-        <h4>References are available upon request</h4>
+        <h4>References available upon request</h4>
       </Link>
     </div>
   </div>
