@@ -6,8 +6,8 @@ const positions = [
     link: 'https://hackreactor.com',
     daterange: 'April 2022 - August 2022',
     points: [
-      'Developed multiple full-stack applications using Django and React by applying domain-driven design knowledge and adopting RESTful API framework',
-      'Used postgreSQL relational databases and MongoDB databases to store data ',
+      'Applied concepts of domain-driven design to develop multiple microservice-based application using RESTful API framework with a Django back-end and React front-end',
+      'Used postgreSQL and MongoDB databases to store data ',
     ],
   },
   {

@@ -6,7 +6,7 @@ const degrees = [
   },
   {
     school: 'Arcadia University',
-    degree: 'Doctorate of Physical Therapy, with distinction',
+    degree: 'Doctor of Physical Therapy, with distinction',
     year: 2015,
   },
   {
