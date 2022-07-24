@@ -1,17 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nomad-Nerds',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Nomad Nerds',
     image: '/images/projects/inprogress.png',
     date: 'July, 2022',
     desc:
-      'Currently in progress. This is a full-stack web application designed to provide information'
-      + ' regarding travel and activity recommendations.',
+      'A full-stack web application designed to provide information regarding city and activity recommendations'
+      + 'based on data from a Yelp API. It uses Django, FastAPI, React, and postgreSQL.',
   },
   {
     title: 'CarCar',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://github.com/maryamckinnon/carcar',
     image: '/images/projects/carcar2.png',
     date: 'July, 2022',
@@ -22,7 +20,6 @@ const data = [
   },
   {
     title: 'Conference GO',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'https://github.com/maryamckinnon/conference-go',
     image: '/images/projects/conferencego2.png',
     date: 'July, 2022',
@@ -32,7 +29,6 @@ const data = [
   },
   {
     title: 'Wardrobify',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'https://github.com/maryamckinnon/wardrobify',
     image: '/images/projects/wardrobify3.png',
     date: 'June, 2022',
