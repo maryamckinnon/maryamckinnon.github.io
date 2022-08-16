@@ -2,11 +2,12 @@
 const data = [
   {
     title: 'Nomad Nerds',
-    image: '/images/projects/inprogress.png',
-    date: 'July, 2022',
+    link: 'https://nomad-nerds.gitlab.io/nomad-nerds/',
+    image: '/images/projects/nomadnerds.png',
+    date: 'July-August, 2022',
     desc:
       'A full-stack web application designed to provide information regarding city and activity recommendations'
-      + 'based on data from a Yelp API. It uses Django, FastAPI, React, and postgreSQL.',
+      + 'based on data using Yelp fusion API. It uses Django, FastAPI, React, and postgreSQL.',
   },
   {
     title: 'CarCar',
