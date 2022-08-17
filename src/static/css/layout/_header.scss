@@ -206,20 +206,20 @@ body {
 }
 
 .open-menu{
-position: fixed;
-right: 0;
-border: none;
+	position: fixed;
+	right: 0;
+	border: none;
 }
 
 .close-menu{
-position: fixed;
-right: 0;
-z-index: 3;
-border-left: 0;
+	position: fixed;
+	right: 0;
+	z-index: 3;
+	border-left: 0;
 }
 
 .hamburger-container  {
-display: none;
+	display: none;
 }
 
 @include breakpoint(medium) {
