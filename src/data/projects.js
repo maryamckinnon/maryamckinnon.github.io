@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/nomadnerds.png',
     date: 'July-August, 2022',
     desc:
-      'A full-stack web application designed to provide information regarding city and activity recommendations'
+      'A full-stack web application designed to provide information regarding city and activity recommendations '
       + 'based on data using Yelp fusion API. It uses Django, FastAPI, React, and postgreSQL.',
   },
   {
