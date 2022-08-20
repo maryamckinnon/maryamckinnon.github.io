@@ -13,7 +13,7 @@ const data = [
     title: 'CarCar',
     link: 'https://gitlab.com/maryamckinnon/project-beta',
     image: '/images/projects/carcar.png',
-    date: '2022-15-07',
+    date: '2022-06-15',
     desc:
       'A full-stack web application designed to help an automobile dealership manage the inventory, sales, '
       + 'and servicing for an automobile dealership. It has a Django back-end and React front-end and utilizes '
@@ -23,7 +23,7 @@ const data = [
     title: 'Conference GO',
     link: 'https://github.com/maryamckinnon/conference-go',
     image: '/images/projects/conferencego2.png',
-    date: '2022-03-07',
+    date: '2022-05-05',
     desc:
       'An API-based full-stack web application designed to allow people to plan software developer conferences.'
        + ' It has a Django back-end and React front-end.',
