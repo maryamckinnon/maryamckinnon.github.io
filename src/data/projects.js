@@ -11,12 +11,12 @@ const data = [
   },
   {
     title: 'CarCar',
-    link: 'https://github.com/maryamckinnon/carcar',
-    image: '/images/projects/carcar2.png',
+    link: 'https://gitlab.com/maryamckinnon/project-beta',
+    image: '/images/projects/carcar.png',
     date: '2022-15-07',
     desc:
-      'A full-stack web application designed to help manage the inventory, sales, and servicing '
-      + 'for an automobile dealership. It has a Django back-end and React front-end and utilizes '
+      'A full-stack web application designed to help an automobile dealership manage the inventory, sales, '
+      + 'and servicing for an automobile dealership. It has a Django back-end and React front-end and utilizes '
       + 'postgreSQL relational databases.',
   },
   {
