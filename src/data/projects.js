@@ -7,7 +7,7 @@ const data = [
     date: '2022-08-05',
     desc:
       'A full-stack web application designed to provide information regarding city and activity recommendations '
-      + 'based on data using Yelp fusion API. It uses Django, FastAPI, React, and postgreSQL.',
+      + 'by leveraging data from a Yelp API. Technologies used include Django, FastAPI, React, Docker, and postgreSQL.',
   },
   {
     title: 'CarCar',
@@ -16,21 +16,20 @@ const data = [
     date: '2022-06-15',
     desc:
       'A full-stack web application designed to help an automobile dealership manage the inventory, sales, '
-      + 'and servicing for an automobile dealership. It has a Django back-end and React front-end and utilizes '
-      + 'postgreSQL relational databases.',
+      + 'and servicing. It has a Django back-end and React front-end and utilizes postgreSQL relational databases.',
   },
   {
     title: 'Conference GO',
-    link: 'https://github.com/maryamckinnon/conference-go',
-    image: '/images/projects/conferencego2.png',
-    date: '2022-05-05',
+    link: 'https://gitlab.com/maryamckinnon/fearless-frontend',
+    image: '/images/projects/conferencego.png',
+    date: '2022-06-05',
     desc:
-      'An API-based full-stack web application designed to allow people to plan software developer conferences.'
-       + ' It has a Django back-end and React front-end.',
+      'A full-stack web application designed to allow people to plan software developer conferences.'
+       + ' It has a Django back-end, React front-end, and leverages third-party API information for conferennce details.',
   },
   {
     title: 'Wardrobify',
-    link: 'https://github.com/maryamckinnon/wardrobify',
+    link: 'https://gitlab.com/maryamckinnon/microservice-two-shot',
     image: '/images/projects/wardrobify3.png',
     date: '2022-06-15',
     desc:
