@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" style={{ justifyContent: 'center' }} />
       </Link>
       <header>
         <h2>Mary McKinnon</h2>

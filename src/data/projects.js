@@ -13,7 +13,7 @@ const data = [
     title: 'CarCar',
     link: 'https://gitlab.com/maryamckinnon/project-beta',
     image: '/images/projects/carcar.png',
-    date: '2022-06-15',
+    date: '2022-07-15',
     desc:
       'A full-stack web application designed to help an automobile dealership manage the inventory, sales, '
       + 'and servicing. It has a Django back-end and React front-end and utilizes postgreSQL relational databases.',
@@ -25,7 +25,7 @@ const data = [
     date: '2022-06-05',
     desc:
       'A full-stack web application designed to allow people to plan software developer conferences.'
-       + ' It has a Django back-end, React front-end, and leverages third-party API information for conferennce details.',
+       + ' It has a Django back-end, React front-end, and leverages third-party API information for conference details.',
   },
   {
     title: 'Wardrobify',
