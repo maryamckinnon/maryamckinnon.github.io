@@ -2,18 +2,18 @@
 const data = [
   {
     title: 'Nomad Nerds',
-    link: 'https://nomad-nerds.gitlab.io/nomad-nerds/',
-    image: '/images/projects/nomadnerds.png',
-    date: '2022-08-05',
+    link: 'https://maryamckinnon.gitlab.io/nomad-nerds-revamped/',
+    image: '/images/projects/nomadnerdsrevamped.png',
+    date: '2022-11-01',
     desc:
       'A full-stack web application designed to provide information regarding city and activity recommendations '
-      + 'by leveraging data from a Yelp API. Technologies used include Django, FastAPI, React, Docker, and postgreSQL.',
+      + 'by leveraging data from a Yelp API. Technologies used include Django, FastAPI, React, Docker, postgreSQL, and Heroku.',
   },
   {
     title: 'CarCar',
-    link: 'https://gitlab.com/maryamckinnon/project-beta',
+    link: 'https://maryamckinnon.gitlab.io/project-beta',
     image: '/images/projects/carcar.png',
-    date: '2022-07-15',
+    date: '2022-09-15',
     desc:
       'A full-stack web application designed to help an automobile dealership manage the inventory, sales, '
       + 'and servicing. It has a Django back-end and React front-end and utilizes postgreSQL relational databases.',
@@ -22,7 +22,7 @@ const data = [
     title: 'Conference GO',
     link: 'https://gitlab.com/maryamckinnon/fearless-frontend',
     image: '/images/projects/conferencego.png',
-    date: '2022-06-05',
+    date: '2022-07-05',
     desc:
       'A full-stack web application designed to allow people to plan software developer conferences.'
        + ' It has a Django back-end, React front-end, and leverages third-party API information for conference details.',
