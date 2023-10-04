@@ -6,13 +6,13 @@ const degrees = [
   },
   {
     school: 'Arcadia University',
-    degree: 'Doctor of Physical Therapy, with distinction',
+    degree: 'Doctor of Physical Therapy, With distinction',
     year: 2015,
   },
   {
     school: 'The Pennsylvania State University',
     degree: 'B.S. in Kinesiology, Magna cum laude',
-    year: 2015,
+    year: 2012,
   },
 ];
 

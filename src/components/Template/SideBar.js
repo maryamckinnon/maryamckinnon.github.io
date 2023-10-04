@@ -19,11 +19,10 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Mary. I like learning and understanding how things work.
-        I am a recent Hack Reactor bootcamp grad as well as a Penn State and Arcadia alumna.
-        I hold a doctorate degree in physical therapy and worked as a physical therapist
-        for 7+ years prior to making the switch to software engineering. What excites me most
-        about software engineering is the possibility of having a large positive impact on society.
+      <p>Hi, I&apos;m Mary!🖐 I&apos;m a full-stack software engineer who enjoys learning
+        and understanding how things work. I am a Hack Reactor, Arcadia, and Penn State alumna.
+        What excites me most about software engineering is the possibility of having a
+        positive impact on society.
       </p>
       <ul className="actions">
         <li>
